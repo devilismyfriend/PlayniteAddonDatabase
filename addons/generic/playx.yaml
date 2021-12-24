@@ -1,0 +1,8 @@
+AddonId: '01070387-0e2b-41e7-a634-8bfbc2793ea3_1_0'
+Type: Generc
+InstallerManifestUrl: https://addon.link/playx.yaml
+ShortDescription: 'Use PlayX to game on the cloud!'
+Name: 'PlayX'
+Author: 'dr34m37'
+Tags: ['cloud', 'online']
+SourceUrl: https://github.com/devilismyfriend/playx
